@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Blog Platform",
+  "description": "A sophisticated, high-performance blog platform built with React and Tailwind CSS, featuring an AI-powered content assistant using Gemini and a full-featured admin dashboard with local persistence.",
+  "requestFramePermissions": []
+}
